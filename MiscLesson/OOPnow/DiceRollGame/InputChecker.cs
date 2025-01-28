@@ -25,6 +25,7 @@ class InputChecker
             return ("Well done, you guessed the number");
             
             
+            
         }
         else
         {
