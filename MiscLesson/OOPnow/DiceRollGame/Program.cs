@@ -8,6 +8,6 @@ while(inputChecker.GetWrongGuessCount()!= 3)
 {
     Console.WriteLine(inputChecker.CheckInput(diceNumber, guesser.getInput()));
 }
-Console.WriteLine("Game over");
+Console.WriteLine("Game over, play again?");
 
 
