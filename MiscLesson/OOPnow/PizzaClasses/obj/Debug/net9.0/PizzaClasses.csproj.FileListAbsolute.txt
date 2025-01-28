@@ -1,0 +1,15 @@
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\obj\Debug\net9.0\PizzaClasses.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\obj\Debug\net9.0\PizzaClasses.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\obj\Debug\net9.0\PizzaClasses.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\obj\Debug\net9.0\PizzaClasses.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\obj\Debug\net9.0\PizzaClasses.sourcelink.json
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\bin\Debug\net9.0\PizzaClasses.exe
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\bin\Debug\net9.0\PizzaClasses.deps.json
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\bin\Debug\net9.0\PizzaClasses.runtimeconfig.json
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\bin\Debug\net9.0\PizzaClasses.dll
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\bin\Debug\net9.0\PizzaClasses.pdb
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\obj\Debug\net9.0\PizzaClasses.dll
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\obj\Debug\net9.0\refint\PizzaClasses.dll
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\obj\Debug\net9.0\PizzaClasses.pdb
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\obj\Debug\net9.0\PizzaClasses.genruntimeconfig.cache
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\PizzaClasses\obj\Debug\net9.0\ref\PizzaClasses.dll
