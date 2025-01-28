@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\bin\Debug\net8.0\While+dowhile.exe
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\bin\Debug\net8.0\While+dowhile.deps.json
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\bin\Debug\net8.0\While+dowhile.runtimeconfig.json
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\bin\Debug\net8.0\While+dowhile.dll
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\bin\Debug\net8.0\While+dowhile.pdb
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\obj\Debug\net8.0\While+dowhile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\obj\Debug\net8.0\While+dowhile.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\obj\Debug\net8.0\While+dowhile.AssemblyInfo.cs
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\obj\Debug\net8.0\While+dowhile.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\obj\Debug\net8.0\While+dowhile.dll
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\obj\Debug\net8.0\refint\While+dowhile.dll
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\obj\Debug\net8.0\While+dowhile.pdb
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\obj\Debug\net8.0\While+dowhile.genruntimeconfig.cache
+C:\Users\alexa\source\repos\MiscLesson\While+dowhile\obj\Debug\net8.0\ref\While+dowhile.dll

@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\bin\Debug\net8.0\outKeyword.exe
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\bin\Debug\net8.0\outKeyword.deps.json
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\bin\Debug\net8.0\outKeyword.runtimeconfig.json
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\bin\Debug\net8.0\outKeyword.dll
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\bin\Debug\net8.0\outKeyword.pdb
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\obj\Debug\net8.0\outKeyword.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\obj\Debug\net8.0\outKeyword.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\obj\Debug\net8.0\outKeyword.AssemblyInfo.cs
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\obj\Debug\net8.0\outKeyword.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\obj\Debug\net8.0\outKeyword.dll
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\obj\Debug\net8.0\refint\outKeyword.dll
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\obj\Debug\net8.0\outKeyword.pdb
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\obj\Debug\net8.0\outKeyword.genruntimeconfig.cache
+C:\Users\alexa\source\repos\MiscLesson\outKeyword\obj\Debug\net8.0\ref\outKeyword.dll

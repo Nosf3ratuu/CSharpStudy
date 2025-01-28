@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\obj\Debug\net8.0\MethodOverlaoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\obj\Debug\net8.0\MethodOverlaoding.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\obj\Debug\net8.0\MethodOverlaoding.AssemblyInfo.cs
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\obj\Debug\net8.0\MethodOverlaoding.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\bin\Debug\net8.0\MethodOverlaoding.exe
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\bin\Debug\net8.0\MethodOverlaoding.deps.json
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\bin\Debug\net8.0\MethodOverlaoding.runtimeconfig.json
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\bin\Debug\net8.0\MethodOverlaoding.dll
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\bin\Debug\net8.0\MethodOverlaoding.pdb
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\obj\Debug\net8.0\MethodOverlaoding.dll
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\obj\Debug\net8.0\refint\MethodOverlaoding.dll
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\obj\Debug\net8.0\MethodOverlaoding.pdb
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\obj\Debug\net8.0\MethodOverlaoding.genruntimeconfig.cache
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\MethodOverlaoding\obj\Debug\net8.0\ref\MethodOverlaoding.dll

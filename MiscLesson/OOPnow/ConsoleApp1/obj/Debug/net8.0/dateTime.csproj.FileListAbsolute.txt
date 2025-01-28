@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\bin\Debug\net8.0\dateTime.exe
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\bin\Debug\net8.0\dateTime.deps.json
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\bin\Debug\net8.0\dateTime.runtimeconfig.json
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\bin\Debug\net8.0\dateTime.dll
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\bin\Debug\net8.0\dateTime.pdb
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\obj\Debug\net8.0\dateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\obj\Debug\net8.0\dateTime.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\obj\Debug\net8.0\dateTime.AssemblyInfo.cs
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\obj\Debug\net8.0\dateTime.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\obj\Debug\net8.0\dateTime.dll
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\obj\Debug\net8.0\refint\dateTime.dll
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\obj\Debug\net8.0\dateTime.pdb
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\obj\Debug\net8.0\dateTime.genruntimeconfig.cache
+C:\Users\alexa\source\repos\MiscLesson\OOPnow\ConsoleApp1\obj\Debug\net8.0\ref\dateTime.dll

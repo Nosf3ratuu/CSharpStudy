@@ -1,0 +1,14 @@
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\bin\Debug\net9.0\DiceRollGame.exe
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\bin\Debug\net9.0\DiceRollGame.deps.json
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\bin\Debug\net9.0\DiceRollGame.runtimeconfig.json
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\bin\Debug\net9.0\DiceRollGame.dll
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\bin\Debug\net9.0\DiceRollGame.pdb
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\obj\Debug\net9.0\DiceRollGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\obj\Debug\net9.0\DiceRollGame.AssemblyInfoInputs.cache
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\obj\Debug\net9.0\DiceRollGame.AssemblyInfo.cs
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\obj\Debug\net9.0\DiceRollGame.csproj.CoreCompileInputs.cache
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\obj\Debug\net9.0\DiceRollGame.dll
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\obj\Debug\net9.0\refint\DiceRollGame.dll
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\obj\Debug\net9.0\DiceRollGame.pdb
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\obj\Debug\net9.0\DiceRollGame.genruntimeconfig.cache
+C:\Users\alexa\Desktop\Cstsuff\MiscLesson\OOPnow\DiceRollGame\obj\Debug\net9.0\ref\DiceRollGame.dll

@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\MiscLesson\Lists\bin\Debug\net8.0\Lists.exe
+C:\Users\alexa\source\repos\MiscLesson\Lists\bin\Debug\net8.0\Lists.deps.json
+C:\Users\alexa\source\repos\MiscLesson\Lists\bin\Debug\net8.0\Lists.runtimeconfig.json
+C:\Users\alexa\source\repos\MiscLesson\Lists\bin\Debug\net8.0\Lists.dll
+C:\Users\alexa\source\repos\MiscLesson\Lists\bin\Debug\net8.0\Lists.pdb
+C:\Users\alexa\source\repos\MiscLesson\Lists\obj\Debug\net8.0\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\MiscLesson\Lists\obj\Debug\net8.0\Lists.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\Lists\obj\Debug\net8.0\Lists.AssemblyInfo.cs
+C:\Users\alexa\source\repos\MiscLesson\Lists\obj\Debug\net8.0\Lists.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\Lists\obj\Debug\net8.0\Lists.dll
+C:\Users\alexa\source\repos\MiscLesson\Lists\obj\Debug\net8.0\refint\Lists.dll
+C:\Users\alexa\source\repos\MiscLesson\Lists\obj\Debug\net8.0\Lists.pdb
+C:\Users\alexa\source\repos\MiscLesson\Lists\obj\Debug\net8.0\Lists.genruntimeconfig.cache
+C:\Users\alexa\source\repos\MiscLesson\Lists\obj\Debug\net8.0\ref\Lists.dll

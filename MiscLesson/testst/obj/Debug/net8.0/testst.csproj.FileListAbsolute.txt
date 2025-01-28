@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\MiscLesson\testst\bin\Debug\net8.0\testst.exe
+C:\Users\alexa\source\repos\MiscLesson\testst\bin\Debug\net8.0\testst.deps.json
+C:\Users\alexa\source\repos\MiscLesson\testst\bin\Debug\net8.0\testst.runtimeconfig.json
+C:\Users\alexa\source\repos\MiscLesson\testst\bin\Debug\net8.0\testst.dll
+C:\Users\alexa\source\repos\MiscLesson\testst\bin\Debug\net8.0\testst.pdb
+C:\Users\alexa\source\repos\MiscLesson\testst\obj\Debug\net8.0\testst.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\MiscLesson\testst\obj\Debug\net8.0\testst.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\testst\obj\Debug\net8.0\testst.AssemblyInfo.cs
+C:\Users\alexa\source\repos\MiscLesson\testst\obj\Debug\net8.0\testst.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\testst\obj\Debug\net8.0\testst.dll
+C:\Users\alexa\source\repos\MiscLesson\testst\obj\Debug\net8.0\refint\testst.dll
+C:\Users\alexa\source\repos\MiscLesson\testst\obj\Debug\net8.0\testst.pdb
+C:\Users\alexa\source\repos\MiscLesson\testst\obj\Debug\net8.0\testst.genruntimeconfig.cache
+C:\Users\alexa\source\repos\MiscLesson\testst\obj\Debug\net8.0\ref\testst.dll

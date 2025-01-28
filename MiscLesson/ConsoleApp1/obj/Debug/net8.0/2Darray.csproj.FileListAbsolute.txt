@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\bin\Debug\net8.0\2Darray.exe
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\bin\Debug\net8.0\2Darray.deps.json
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\bin\Debug\net8.0\2Darray.runtimeconfig.json
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\bin\Debug\net8.0\2Darray.dll
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\bin\Debug\net8.0\2Darray.pdb
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\obj\Debug\net8.0\2Darray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\obj\Debug\net8.0\2Darray.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\obj\Debug\net8.0\2Darray.AssemblyInfo.cs
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\obj\Debug\net8.0\2Darray.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\obj\Debug\net8.0\2Darray.dll
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\obj\Debug\net8.0\refint\2Darray.dll
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\obj\Debug\net8.0\2Darray.pdb
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\obj\Debug\net8.0\2Darray.genruntimeconfig.cache
+C:\Users\alexa\source\repos\MiscLesson\ConsoleApp1\obj\Debug\net8.0\ref\2Darray.dll

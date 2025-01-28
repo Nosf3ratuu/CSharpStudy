@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\TODOList\TODOList\bin\Debug\net8.0\TODOList.exe
+C:\Users\alexa\source\repos\TODOList\TODOList\bin\Debug\net8.0\TODOList.deps.json
+C:\Users\alexa\source\repos\TODOList\TODOList\bin\Debug\net8.0\TODOList.runtimeconfig.json
+C:\Users\alexa\source\repos\TODOList\TODOList\bin\Debug\net8.0\TODOList.dll
+C:\Users\alexa\source\repos\TODOList\TODOList\bin\Debug\net8.0\TODOList.pdb
+C:\Users\alexa\source\repos\TODOList\TODOList\obj\Debug\net8.0\TODOList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\TODOList\TODOList\obj\Debug\net8.0\TODOList.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\TODOList\TODOList\obj\Debug\net8.0\TODOList.AssemblyInfo.cs
+C:\Users\alexa\source\repos\TODOList\TODOList\obj\Debug\net8.0\TODOList.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\TODOList\TODOList\obj\Debug\net8.0\TODOList.dll
+C:\Users\alexa\source\repos\TODOList\TODOList\obj\Debug\net8.0\refint\TODOList.dll
+C:\Users\alexa\source\repos\TODOList\TODOList\obj\Debug\net8.0\TODOList.pdb
+C:\Users\alexa\source\repos\TODOList\TODOList\obj\Debug\net8.0\TODOList.genruntimeconfig.cache
+C:\Users\alexa\source\repos\TODOList\TODOList\obj\Debug\net8.0\ref\TODOList.dll

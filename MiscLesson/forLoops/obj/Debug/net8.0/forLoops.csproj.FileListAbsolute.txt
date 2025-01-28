@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\MiscLesson\forLoops\obj\Debug\net8.0\forLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\MiscLesson\forLoops\obj\Debug\net8.0\forLoops.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\forLoops\obj\Debug\net8.0\forLoops.AssemblyInfo.cs
+C:\Users\alexa\source\repos\MiscLesson\forLoops\obj\Debug\net8.0\forLoops.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\forLoops\bin\Debug\net8.0\forLoops.exe
+C:\Users\alexa\source\repos\MiscLesson\forLoops\bin\Debug\net8.0\forLoops.deps.json
+C:\Users\alexa\source\repos\MiscLesson\forLoops\bin\Debug\net8.0\forLoops.runtimeconfig.json
+C:\Users\alexa\source\repos\MiscLesson\forLoops\bin\Debug\net8.0\forLoops.dll
+C:\Users\alexa\source\repos\MiscLesson\forLoops\bin\Debug\net8.0\forLoops.pdb
+C:\Users\alexa\source\repos\MiscLesson\forLoops\obj\Debug\net8.0\forLoops.dll
+C:\Users\alexa\source\repos\MiscLesson\forLoops\obj\Debug\net8.0\refint\forLoops.dll
+C:\Users\alexa\source\repos\MiscLesson\forLoops\obj\Debug\net8.0\forLoops.pdb
+C:\Users\alexa\source\repos\MiscLesson\forLoops\obj\Debug\net8.0\forLoops.genruntimeconfig.cache
+C:\Users\alexa\source\repos\MiscLesson\forLoops\obj\Debug\net8.0\ref\forLoops.dll

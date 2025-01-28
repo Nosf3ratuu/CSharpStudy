@@ -1,0 +1,180 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4B57E086-4D5E-4559-BC9A-139F3D6933A8}|outKeyword\\outKeyword.csproj|c:\\users\\alexa\\source\\repos\\misclesson\\outkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4B57E086-4D5E-4559-BC9A-139F3D6933A8}|outKeyword\\outKeyword.csproj|solutionrelative:outkeyword\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D82843B4-2A77-487F-89F2-EBAEA969C315}|Lists\\Lists.csproj|c:\\users\\alexa\\source\\repos\\misclesson\\lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D82843B4-2A77-487F-89F2-EBAEA969C315}|Lists\\Lists.csproj|solutionrelative:lists\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D2DCDDE-FB46-43F8-A42A-B3774CD8919F}|forEachLoop\\forEachLoop.csproj|c:\\users\\alexa\\source\\repos\\misclesson\\foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D2DCDDE-FB46-43F8-A42A-B3774CD8919F}|forEachLoop\\forEachLoop.csproj|solutionrelative:foreachloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9989ECB2-2739-4FD5-8CE3-FEF4C8D10DDD}|switchCases\\switchCases.csproj|c:\\users\\alexa\\source\\repos\\misclesson\\switchcases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9989ECB2-2739-4FD5-8CE3-FEF4C8D10DDD}|switchCases\\switchCases.csproj|solutionrelative:switchcases\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BF08043-6DA3-473F-83EA-60A55F121868}|forLoops\\forLoops.csproj|c:\\users\\alexa\\source\\repos\\misclesson\\forloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BF08043-6DA3-473F-83EA-60A55F121868}|forLoops\\forLoops.csproj|solutionrelative:forloops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{154E68C8-5E95-46CD-9BB1-413D5CB05A1F}|Arrays\\Arrays.csproj|c:\\users\\alexa\\source\\repos\\misclesson\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{154E68C8-5E95-46CD-9BB1-413D5CB05A1F}|Arrays\\Arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D0A2C1C0-856F-42A8-A352-61A968E5B927}|nestedLoop\\nestedLoop.csproj|c:\\users\\alexa\\source\\repos\\misclesson\\nestedloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D0A2C1C0-856F-42A8-A352-61A968E5B927}|nestedLoop\\nestedLoop.csproj|solutionrelative:nestedloop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADDD38B5-85F6-4F0F-805B-B30FD0C14C11}|While\u002Bdowhile\\While\u002Bdowhile.csproj|c:\\users\\alexa\\source\\repos\\misclesson\\while\u002Bdowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADDD38B5-85F6-4F0F-805B-B30FD0C14C11}|While\u002Bdowhile\\While\u002Bdowhile.csproj|solutionrelative:while\u002Bdowhile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5002FB0E-3823-4D67-A97A-7DC5EE89DA06}|MiscLesson\\strInterpolation.csproj|c:\\users\\alexa\\source\\repos\\misclesson\\misclesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5002FB0E-3823-4D67-A97A-7DC5EE89DA06}|MiscLesson\\strInterpolation.csproj|solutionrelative:misclesson\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2BFF1521-5D26-4B34-B608-116532448290}|ConsoleApp1\\2Darray.csproj|c:\\users\\alexa\\source\\repos\\misclesson\\consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2BFF1521-5D26-4B34-B608-116532448290}|ConsoleApp1\\2Darray.csproj|solutionrelative:consoleapp1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\outKeyword\\Program.cs",
+              "RelativeDocumentMoniker": "outKeyword\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\outKeyword\\Program.cs",
+              "RelativeToolTip": "outKeyword\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-18T14:31:21.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\Lists\\Program.cs",
+              "RelativeDocumentMoniker": "Lists\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\Lists\\Program.cs",
+              "RelativeToolTip": "Lists\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABsAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-17T18:48:49.377Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\forEachLoop\\Program.cs",
+              "RelativeDocumentMoniker": "forEachLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\forEachLoop\\Program.cs",
+              "RelativeToolTip": "forEachLoop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-08T14:37:51.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\ConsoleApp1\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleApp1\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\ConsoleApp1\\Program.cs",
+              "RelativeToolTip": "ConsoleApp1\\Program.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAmwBsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T14:58:59.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\Arrays\\Program.cs",
+              "RelativeDocumentMoniker": "Arrays\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\Arrays\\Program.cs",
+              "RelativeToolTip": "Arrays\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-27T14:42:07.838Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\nestedLoop\\Program.cs",
+              "RelativeDocumentMoniker": "nestedLoop\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\nestedLoop\\Program.cs",
+              "RelativeToolTip": "nestedLoop\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-25T14:06:31.526Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\forLoops\\Program.cs",
+              "RelativeDocumentMoniker": "forLoops\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\forLoops\\Program.cs",
+              "RelativeToolTip": "forLoops\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T13:09:24.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\While\u002Bdowhile\\Program.cs",
+              "RelativeDocumentMoniker": "While\u002Bdowhile\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\While\u002Bdowhile\\Program.cs",
+              "RelativeToolTip": "While\u002Bdowhile\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-21T12:43:06.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\switchCases\\Program.cs",
+              "RelativeDocumentMoniker": "switchCases\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\switchCases\\Program.cs",
+              "RelativeToolTip": "switchCases\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T12:06:06.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\MiscLesson\\Program.cs",
+              "RelativeDocumentMoniker": "MiscLesson\\Program.cs",
+              "ToolTip": "C:\\Users\\alexa\\source\\repos\\MiscLesson\\MiscLesson\\Program.cs",
+              "RelativeToolTip": "MiscLesson\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-14T11:37:10.046Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

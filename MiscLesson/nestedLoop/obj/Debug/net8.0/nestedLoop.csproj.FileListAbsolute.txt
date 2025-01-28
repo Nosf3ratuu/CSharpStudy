@@ -1,0 +1,14 @@
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\bin\Debug\net8.0\nestedLoop.exe
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\bin\Debug\net8.0\nestedLoop.deps.json
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\bin\Debug\net8.0\nestedLoop.runtimeconfig.json
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\bin\Debug\net8.0\nestedLoop.dll
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\bin\Debug\net8.0\nestedLoop.pdb
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\obj\Debug\net8.0\nestedLoop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\obj\Debug\net8.0\nestedLoop.AssemblyInfoInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\obj\Debug\net8.0\nestedLoop.AssemblyInfo.cs
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\obj\Debug\net8.0\nestedLoop.csproj.CoreCompileInputs.cache
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\obj\Debug\net8.0\nestedLoop.dll
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\obj\Debug\net8.0\refint\nestedLoop.dll
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\obj\Debug\net8.0\nestedLoop.pdb
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\obj\Debug\net8.0\nestedLoop.genruntimeconfig.cache
+C:\Users\alexa\source\repos\MiscLesson\nestedLoop\obj\Debug\net8.0\ref\nestedLoop.dll
